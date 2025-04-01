@@ -1,0 +1,474 @@
+Index,Node,index_in_graph,node_id,meaning,category
+0,1071,,1071,cardiovascular,cardiovascular
+1,1072,,1072,respiratory/ent,respiratory/ent
+2,1073,,1073,gastrointestinal/abdominal,gastrointestinal/abdominal
+3,1074,,1074,renal/urology,renal/urology
+4,1075,,1075,endocrine/diabetes,endocrine/diabetes
+5,1076,,1076,neurology/eye/psychiatry,neurology/eye/psychiatry
+6,1077,,1077,musculoskeletal/trauma,musculoskeletal/trauma
+7,1078,,1078,haematology/dermatology,haematology/dermatology
+8,1079,,1079,gynaecology/breast,gynaecology/breast
+9,1080,,1080,immunological/systemic disorders,immunological/systemic disorders
+10,1081,0.0,1081,hypertension,cardiovascular
+11,1082,1.0,1082,heart/cardiac problem,cardiovascular
+12,1083,,1083,cerebrovascular disease,cardiovascular
+13,1084,2.0,1084,peripheral vascular disease,cardiovascular
+14,1085,3.0,1085,venous thromboembolic disease,cardiovascular
+15,1089,4.0,1089,essential hypertension,cardiovascular
+16,1090,5.0,1090,gestational hypertension/pre-eclampsia,cardiovascular
+17,1091,6.0,1091,angina,cardiovascular
+18,1092,7.0,1092,heart attack/myocardial infarction,cardiovascular
+19,1093,8.0,1093,heart failure/pulmonary odema,cardiovascular
+20,1094,9.0,1094,heart arrhythmia,cardiovascular
+21,1095,10.0,1095,heart valve problem/heart murmur,cardiovascular
+22,1096,11.0,1096,cardiomyopathy,cardiovascular
+23,1097,12.0,1097,pericardial problem,cardiovascular
+24,1098,13.0,1098,stroke,cardiovascular
+25,1099,14.0,1099,transient ischaemic attack (tia),cardiovascular
+26,1100,15.0,1100,subdural haemorrhage/haematoma,cardiovascular
+27,1103,16.0,1103,subarachnoid haemorrhage,cardiovascular
+28,1104,17.0,1104,leg claudication/ intermittent claudication,cardiovascular
+29,1105,18.0,1105,arterial embolism,cardiovascular
+30,1111,19.0,1111,pulmonary embolism +/- dvt,cardiovascular
+31,1112,20.0,1112,deep venous thrombosis (dvt),cardiovascular
+32,1130,21.0,1130,asthma,respiratory/ent
+33,1131,22.0,1131,chronic obstructive airways disease/copd,respiratory/ent
+34,1132,23.0,1132,emphysema/chronic bronchitis,respiratory/ent
+35,1133,24.0,1133,bronchiectasis,respiratory/ent
+36,1134,25.0,1134,interstitial lung disease,respiratory/ent
+37,1136,26.0,1136,other respiratory problems,respiratory/ent
+38,1139,27.0,1139,asbestosis,respiratory/ent
+39,1140,28.0,1140,pulmonary fibrosis,respiratory/ent
+40,1141,29.0,1141,fibrosing alveolitis/unspecified alveolitis,respiratory/ent
+41,1142,30.0,1142,sleep apnoea,respiratory/ent
+42,1143,31.0,1143,respiratory failure,respiratory/ent
+43,1144,32.0,1144,pleurisy,respiratory/ent
+44,1145,33.0,1145,spontaneous pneumothorax/recurrent pneumothorax,respiratory/ent
+45,1153,34.0,1153,oesophageal disorder,gastrointestinal/abdominal
+46,1154,35.0,1154,stomach disorder,gastrointestinal/abdominal
+47,1155,,1155,bowel problem,gastrointestinal/abdominal
+48,1156,36.0,1156,liver/biliary/pancreas problem,gastrointestinal/abdominal
+49,1158,37.0,1158,other abdominal problem,gastrointestinal/abdominal
+50,1159,38.0,1159,gastro-oesophageal reflux (gord) / gastric reflux,gastrointestinal/abdominal
+51,1160,39.0,1160,oesophagitis/barretts oesophagus,gastrointestinal/abdominal
+52,1161,40.0,1161,oesophageal stricture,gastrointestinal/abdominal
+53,1162,41.0,1162,oesophageal varicies,gastrointestinal/abdominal
+54,1163,42.0,1163,gastric/stomach ulcers,gastrointestinal/abdominal
+55,1164,43.0,1164,gastritis/gastric erosions,gastrointestinal/abdominal
+56,1175,44.0,1175,irritable bowel syndrome,gastrointestinal/abdominal
+57,1176,45.0,1176,hepatitis,gastrointestinal/abdominal
+58,1177,46.0,1177,infective/viral hepatitis,gastrointestinal/abdominal
+59,1178,47.0,1178,non-infective hepatitis,gastrointestinal/abdominal
+60,1179,48.0,1179,liver failure/cirrhosis,gastrointestinal/abdominal
+61,1180,49.0,1180,bile duct disease,gastrointestinal/abdominal
+62,1181,50.0,1181,bile duct obstruction/ascending cholangitis,gastrointestinal/abdominal
+63,1182,51.0,1182,gall bladder disease,gastrointestinal/abdominal
+64,1183,52.0,1183,cholelithiasis/gall stones,gastrointestinal/abdominal
+65,1184,53.0,1184,cholecystitis,gastrointestinal/abdominal
+66,1185,54.0,1185,pancreatic disease,gastrointestinal/abdominal
+67,1186,55.0,1186,pancreatitis,gastrointestinal/abdominal
+68,1211,56.0,1211,peritonitis,gastrointestinal/abdominal
+69,1212,57.0,1212,gastrointestinal bleeding,gastrointestinal/abdominal
+70,1213,58.0,1213,renal/kidney failure,renal/urology
+71,1214,59.0,1214,renal failure requiring dialysis,renal/urology
+72,1215,60.0,1215,renal failure not requiring dialysis,renal/urology
+73,1217,61.0,1217,urinary tract infection/kidney infection,renal/urology
+74,1218,62.0,1218,kidney stone/ureter stone/bladder stone,renal/urology
+75,1221,63.0,1221,ureteric obstruction/hydronephrosis,renal/urology
+76,1222,64.0,1222,bladder problem (not cancer),renal/urology
+77,1223,65.0,1223,urinary frequency / incontinence,renal/urology
+78,1231,,1231,other urological problem (male),renal/urology
+79,1232,66.0,1232,prostate problem (not cancer),renal/urology
+80,1235,67.0,1235,scrotal problem (not cancer),renal/urology
+81,1239,68.0,1239,testicular problems (not cancer),renal/urology
+82,1245,69.0,1245,diabetes,endocrine/diabetes
+83,1246,70.0,1246,gestational diabetes,endocrine/diabetes
+84,1247,71.0,1247,type 1 diabetes,endocrine/diabetes
+85,1248,72.0,1248,type 2 diabetes,endocrine/diabetes
+86,1249,73.0,1249,thyroid problem (not cancer),endocrine/diabetes
+87,1250,74.0,1250,hyperthyroidism/thyrotoxicosis,endocrine/diabetes
+88,1251,75.0,1251,hypothyroidism/myxoedema,endocrine/diabetes
+89,1253,76.0,1253,thyroid radioablation therapy,endocrine/diabetes
+90,1254,77.0,1254,parathyroid gland problem (not cancer),endocrine/diabetes
+91,1255,78.0,1255,parathyroid hyperplasia/adenoma,endocrine/diabetes
+92,1257,79.0,1257,disorder of adrenal gland,endocrine/diabetes
+93,1258,80.0,1258,adrenal tumour,endocrine/diabetes
+94,1259,81.0,1259,adrenocortical insufficiency/addison's disease,endocrine/diabetes
+95,1260,82.0,1260,hyperaldosteronism/conn's syndrome,endocrine/diabetes
+96,1261,83.0,1261,phaeochromocytoma,endocrine/diabetes
+97,1262,84.0,1262,disorder or pituitary gland,endocrine/diabetes
+98,1263,85.0,1263,pituitary adenoma/tumour,endocrine/diabetes
+99,1264,86.0,1264,cushings syndrome,endocrine/diabetes
+100,1265,,1265,neurology,neurology/eye/psychiatry
+101,1266,87.0,1266,neurological injury/trauma,neurology/eye/psychiatry
+102,1268,88.0,1268,eye/eyelid problem,neurology/eye/psychiatry
+103,1269,89.0,1269,psychological/psychiatric problem,neurology/eye/psychiatry
+104,1270,90.0,1270,infection of nervous system,neurology/eye/psychiatry
+105,1271,91.0,1271,brain abscess/intracranial abscess,neurology/eye/psychiatry
+106,1272,92.0,1272,encephalitis,neurology/eye/psychiatry
+107,1273,93.0,1273,meningitis,neurology/eye/psychiatry
+108,1274,94.0,1274,spinal abscess,neurology/eye/psychiatry
+109,1275,95.0,1275,cranial nerve problem/palsy,neurology/eye/psychiatry
+110,1276,96.0,1276,bell's palsy/facial nerve palsy,neurology/eye/psychiatry
+111,1277,97.0,1277,spinal cord disorder,neurology/eye/psychiatry
+112,1278,98.0,1278,paraplegia,neurology/eye/psychiatry
+113,1280,99.0,1280,peripheral nerve disorder,neurology/eye/psychiatry
+114,1281,100.0,1281,peripheral neuropathy,neurology/eye/psychiatry
+115,1282,101.0,1282,acute infective polyneuritis/guillain-barre syndrome,neurology/eye/psychiatry
+116,1283,102.0,1283,trapped nerve/compressed nerve,neurology/eye/psychiatry
+117,1284,103.0,1284,chronic/degenerative neurological problem,neurology/eye/psychiatry
+118,1285,104.0,1285,motor neurone disease,neurology/eye/psychiatry
+119,1286,,1286,myasthenia gravis,neurology/eye/psychiatry
+120,1287,105.0,1287,multiple sclerosis,neurology/eye/psychiatry
+121,1288,106.0,1288,parkinsons disease,neurology/eye/psychiatry
+122,1289,107.0,1289,dementia/alzheimers/cognitive impairment,neurology/eye/psychiatry
+123,1290,108.0,1290,epilepsy,neurology/eye/psychiatry
+124,1291,109.0,1291,migraine,neurology/eye/psychiatry
+125,1292,110.0,1292,head injury,neurology/eye/psychiatry
+126,1293,111.0,1293,spinal injury,neurology/eye/psychiatry
+127,1300,112.0,1300,eye infection,neurology/eye/psychiatry
+128,1301,113.0,1301,retinal problem,neurology/eye/psychiatry
+129,1302,114.0,1302,diabetic eye disease,neurology/eye/psychiatry
+130,1303,115.0,1303,glaucoma,neurology/eye/psychiatry
+131,1304,116.0,1304,cataract,neurology/eye/psychiatry
+132,1305,117.0,1305,eye trauma,neurology/eye/psychiatry
+133,1307,118.0,1307,retinal detachment,neurology/eye/psychiatry
+134,1308,119.0,1308,retinal artery/vein occlusion,neurology/eye/psychiatry
+135,1312,120.0,1312,depression,neurology/eye/psychiatry
+136,1313,121.0,1313,anxiety/panic attacks,neurology/eye/psychiatry
+137,1314,122.0,1314,nervous breakdown,neurology/eye/psychiatry
+138,1315,123.0,1315,schizophrenia,neurology/eye/psychiatry
+139,1316,124.0,1316,deliberate self-harm/suicide attempt,neurology/eye/psychiatry
+140,1317,125.0,1317,mania/bipolar disorder/manic depression,neurology/eye/psychiatry
+141,1319,126.0,1319,bone disorder,musculoskeletal/trauma
+142,1320,127.0,1320,back problem,musculoskeletal/trauma
+143,1321,128.0,1321,joint disorder,musculoskeletal/trauma
+144,1323,129.0,1323,muscle/soft tissue problem,musculoskeletal/trauma
+145,1347,130.0,1347,osteomyelitis,musculoskeletal/trauma
+146,1348,131.0,1348,osteoporosis,musculoskeletal/trauma
+147,1349,132.0,1349,paget's disease,musculoskeletal/trauma
+148,1350,133.0,1350,spine arthritis/spondylitis,musculoskeletal/trauma
+149,1351,134.0,1351,prolapsed disc/slipped disc,musculoskeletal/trauma
+150,1352,135.0,1352,ankylosing spondylitis,musculoskeletal/trauma
+151,1361,136.0,1361,myositis/myopathy,musculoskeletal/trauma
+152,1366,137.0,1366,low platelets/platelet disorder,haematology/dermatology
+153,1367,138.0,1367,haemophilia,haematology/dermatology
+154,1369,139.0,1369,iron deficiency anaemia,haematology/dermatology
+155,1370,140.0,1370,pernicious anaemia,haematology/dermatology
+156,1371,141.0,1371,aplastic anaemia,haematology/dermatology
+157,1378,142.0,1378,sickle cell disease,haematology/dermatology
+158,1379,143.0,1379,thalassaemia,haematology/dermatology
+159,1386,144.0,1386,stevens johnson syndrome,haematology/dermatology
+160,1387,145.0,1387,pemphigoid/pemphigus,haematology/dermatology
+161,1390,146.0,1390,gynaecological disorder (not cancer),gynaecology/breast
+162,1391,147.0,1391,ovarian cyst or cysts,gynaecology/breast
+163,1392,148.0,1392,polycystic ovaries/polycystic ovarian syndrome,gynaecology/breast
+164,1393,149.0,1393,uterine fibroids,gynaecology/breast
+165,1394,150.0,1394,uterine polyps,gynaecology/breast
+166,1395,151.0,1395,vaginal prolapse/uterine prolapse,gynaecology/breast
+167,1407,152.0,1407,breast disease (not cancer),gynaecology/breast
+168,1409,153.0,1409,fibrocystic disease,gynaecology/breast
+169,1410,154.0,1410,breast cysts,gynaecology/breast
+170,1414,155.0,1414,sarcoidosis,immunological/systemic disorders
+171,1415,156.0,1415,vasculitis,immunological/systemic disorders
+172,1416,157.0,1416,connective tissue disorder,immunological/systemic disorders
+173,1417,158.0,1417,allergy/hypersensitivity/anaphylaxis,immunological/systemic disorders
+174,1419,159.0,1419,giant cell/temporal arteritis,immunological/systemic disorders
+175,1420,160.0,1420,polymyalgia rheumatica,immunological/systemic disorders
+176,1421,161.0,1421,wegners granulmatosis,immunological/systemic disorders
+177,1422,162.0,1422,microscopic polyarteritis,immunological/systemic disorders
+178,1423,163.0,1423,polyartertis nodosa,immunological/systemic disorders
+179,1424,164.0,1424,systemic lupus erythematosis/sle,immunological/systemic disorders
+180,1425,165.0,1425,sjogren's syndrome/sicca syndrome,immunological/systemic disorders
+181,1426,166.0,1426,dermatopolymyositis,immunological/systemic disorders
+182,1427,167.0,1427,scleroderma/systemic sclerosis,immunological/systemic disorders
+183,1428,168.0,1428,allergy or anaphylactic reaction to food,immunological/systemic disorders
+184,1429,169.0,1429,allergy or anaphylactic reaction to drug,immunological/systemic disorders
+185,1430,170.0,1430,hayfever/allergic rhinitis,immunological/systemic disorders
+186,1438,171.0,1438,peripheral nerve injury,neurology/eye/psychiatry
+187,1441,172.0,1441,enlarged prostate,renal/urology
+188,1442,173.0,1442,other demyelinating disease (not multiple sclerosis),neurology/eye/psychiatry
+189,1443,174.0,1443,pneumonia,respiratory/ent
+190,1445,175.0,1445,peptic ulcer,gastrointestinal/abdominal
+191,1451,176.0,1451,endometriosis,gynaecology/breast
+192,1452,177.0,1452,female infertility,gynaecology/breast
+193,1453,178.0,1453,male infertility,renal/urology
+194,1454,179.0,1454,other renal/kidney problem,renal/urology
+195,1457,180.0,1457,muscle or soft tissue injuries,musculoskeletal/trauma
+196,1458,181.0,1458,burns,musculoskeletal/trauma
+197,1460,,1460,substance abuse/dependency,neurology/eye/psychiatry
+198,1461,182.0,1461,alcohol dependency,neurology/eye/psychiatry
+199,1462,183.0,1462,opioid dependency,neurology/eye/psychiatry
+200,1463,184.0,1463,other substance abuse/dependency,neurology/eye/psychiatry
+201,1464,185.0,1464,lung abscess,respiratory/ent
+202,1465,186.0,1465,bronchitis,respiratory/ent
+203,1466,,1466,ent disorder/not cancer,respiratory/ent
+204,1467,187.0,1467,nasal/sinus disorder,respiratory/ent
+205,1468,188.0,1468,throat or larynx disorder,respiratory/ent
+206,1469,189.0,1469,ear/vestibular disorder,respiratory/ent
+207,1470,190.0,1470,chronic sinusitis,respiratory/ent
+208,1471,191.0,1471,nasal polyps,respiratory/ent
+209,1472,192.0,1472,chronic laryngitis,respiratory/ent
+210,1473,193.0,1473,vocal cord polyp,respiratory/ent
+211,1474,194.0,1474,otosclerosis,respiratory/ent
+212,1475,195.0,1475,meniere's disease,respiratory/ent
+213,1480,196.0,1480,cerebral aneurysm,cardiovascular
+214,1481,197.0,1481,myocarditis,cardiovascular
+215,1482,198.0,1482,polycystic kidney,renal/urology
+216,1483,199.0,1483,thyroiditis,endocrine/diabetes
+217,1484,200.0,1484,acromegaly,endocrine/diabetes
+218,1485,201.0,1485,hypopituitarism,endocrine/diabetes
+219,1486,202.0,1486,hyperprolactinaemia,endocrine/diabetes
+220,1487,203.0,1487,carcinoid syndrome/tumour,endocrine/diabetes
+221,1488,204.0,1488,cerebral palsy,neurology/eye/psychiatry
+222,1489,205.0,1489,other neurological problem,neurology/eye/psychiatry
+223,1490,206.0,1490,optic neuritis,neurology/eye/psychiatry
+224,1491,207.0,1491,headaches (not migraine),neurology/eye/psychiatry
+225,1492,208.0,1492,myasthenia gravis,neurology/eye/psychiatry
+226,1493,209.0,1493,polycythaemia vera,haematology/dermatology
+227,1495,,1495,infections,infections
+228,1502,,1502,haematology,haematology/dermatology
+229,1503,210.0,1503,clotting disorder/excessive bleeding,haematology/dermatology
+230,1504,211.0,1504,anaemia,haematology/dermatology
+231,1505,212.0,1505,pancytopenia,haematology/dermatology
+232,1506,213.0,1506,neutropenia/lymphopenia,haematology/dermatology
+233,1507,214.0,1507,myeloproliferative disorder,haematology/dermatology
+234,1508,215.0,1508,monoclonal gammopathy/not myeloma,haematology/dermatology
+235,1509,216.0,1509,hereditary/genetic haematological disorder,haematology/dermatology
+236,1510,,1510,dermatology,haematology/dermatology
+237,1511,217.0,1511,eczema/dermatitis,haematology/dermatology
+238,1512,218.0,1512,psoriasis,haematology/dermatology
+239,1513,219.0,1513,blistering/desquamating skin disorder,haematology/dermatology
+240,1514,220.0,1514,chronic skin ulcers,haematology/dermatology
+241,1516,221.0,1516,malabsorption/coeliac disease,gastrointestinal/abdominal
+242,1517,222.0,1517,duodenal ulcer,gastrointestinal/abdominal
+243,1518,223.0,1518,diverticular disease/diverticulitis,gastrointestinal/abdominal
+244,1519,224.0,1519,colitis/not crohns or ulcerative colitis,gastrointestinal/abdominal
+245,1520,225.0,1520,rectal or colon adenoma/polyps,gastrointestinal/abdominal
+246,1521,226.0,1521,inflammatory bowel disease,gastrointestinal/abdominal
+247,1522,227.0,1522,crohns disease,gastrointestinal/abdominal
+248,1523,228.0,1523,ulcerative colitis,gastrointestinal/abdominal
+249,1524,229.0,1524,rheumatoid arthritis,musculoskeletal/trauma
+250,1525,230.0,1525,osteoarthritis,musculoskeletal/trauma
+251,1526,231.0,1526,gout,musculoskeletal/trauma
+252,1527,232.0,1527,other joint disorder,musculoskeletal/trauma
+253,1528,233.0,1528,diabetic neuropathy/ulcers,neurology/eye/psychiatry
+254,1530,234.0,1530,post-traumatic stress disorder,neurology/eye/psychiatry
+255,1531,235.0,1531,anorexia/bulimia/other eating disorder,neurology/eye/psychiatry
+256,1532,236.0,1532,atrial fibrillation,cardiovascular
+257,1534,237.0,1534,emphysema,respiratory/ent
+258,1536,238.0,1536,high cholesterol,cardiovascular
+259,1537,239.0,1537,hiatus hernia,gastrointestinal/abdominal
+260,1538,240.0,1538,sclerosing cholangitis,gastrointestinal/abdominal
+261,1539,241.0,1539,sciatica,musculoskeletal/trauma
+262,1540,242.0,1540,psoriatic arthropathy,musculoskeletal/trauma
+263,1541,243.0,1541,cervical spondylosis,musculoskeletal/trauma
+264,1542,244.0,1542,rheumatic fever,cardiovascular
+265,1543,245.0,1543,dermatomyositis,immunological/systemic disorders
+266,1544,246.0,1544,polymyositis,immunological/systemic disorders
+267,1545,247.0,1545,chronic fatigue syndrome,immunological/systemic disorders
+268,1546,248.0,1546,atrial flutter,cardiovascular
+269,1547,249.0,1547,wolff parkinson white / wpw syndrome,cardiovascular
+270,1548,250.0,1548,irregular heart beat,cardiovascular
+271,1549,251.0,1549,sick sinus syndrome,cardiovascular
+272,1550,252.0,1550,svt / supraventricular tachycardia,cardiovascular
+273,1551,253.0,1551,mitral valve prolapse,cardiovascular
+274,1552,254.0,1552,mitral stenosis,cardiovascular
+275,1553,255.0,1553,aortic stenosis,cardiovascular
+276,1554,256.0,1554,brain haemorrhage,cardiovascular
+277,1555,257.0,1555,aortic aneurysm,cardiovascular
+278,1556,258.0,1556,other venous/lymphatic disease,cardiovascular
+279,1557,259.0,1557,varicose veins,cardiovascular
+280,1558,260.0,1558,lymphoedema,cardiovascular
+281,1559,261.0,1559,alpha-1 antitrypsin deficiency,respiratory/ent
+282,1560,262.0,1560,pneumothorax,respiratory/ent
+283,1561,263.0,1561,empyema,respiratory/ent
+284,1562,264.0,1562,labyrinthitis,respiratory/ent
+285,1563,265.0,1563,vertigo,respiratory/ent
+286,1564,266.0,1564,pyloric stenosis,gastrointestinal/abdominal
+287,1565,267.0,1565,appendicitis,gastrointestinal/abdominal
+288,1566,268.0,1566,anal problem,gastrointestinal/abdominal
+289,1567,269.0,1567,anal fissure,gastrointestinal/abdominal
+290,1568,270.0,1568,haemorrhoids / piles,gastrointestinal/abdominal
+291,1569,271.0,1569,primary biliary cirrhosis,gastrointestinal/abdominal
+292,1570,272.0,1570,haemochromatosis,gastrointestinal/abdominal
+293,1571,273.0,1571,jaundice (unknown cause),gastrointestinal/abdominal
+294,1572,274.0,1572,gastroenteritis/dysentry,gastrointestinal/abdominal
+295,1573,275.0,1573,dyspepsia / indigestion,gastrointestinal/abdominal
+296,1574,276.0,1574,abdominal hernia,gastrointestinal/abdominal
+297,1575,277.0,1575,umbilical hernia,gastrointestinal/abdominal
+298,1576,278.0,1576,inguinal hernia,gastrointestinal/abdominal
+299,1577,279.0,1577,cystitis,renal/urology
+300,1578,280.0,1578,pyelonephritis,renal/urology
+301,1579,281.0,1579,bph / benign prostatic hypertrophy,renal/urology
+302,1580,282.0,1580,prostatitis,renal/urology
+303,1581,283.0,1581,erectile dysfunction / impotence,renal/urology
+304,1582,284.0,1582,kidney nephropathy,renal/urology
+305,1583,285.0,1583,iga nephropathy,renal/urology
+306,1584,286.0,1584,diabetes insipidus,endocrine/diabetes
+307,1585,287.0,1585,grave's disease,endocrine/diabetes
+308,1586,288.0,1586,trigemminal neuralgia,neurology/eye/psychiatry
+309,1587,289.0,1587,spina bifida,neurology/eye/psychiatry
+310,1588,290.0,1588,benign / essential tremor,neurology/eye/psychiatry
+311,1589,291.0,1589,polio / poliomyelitis,neurology/eye/psychiatry
+312,1590,292.0,1590,retinitis pigmentosa,neurology/eye/psychiatry
+313,1591,293.0,1591,macular degeneration,neurology/eye/psychiatry
+314,1592,294.0,1592,dry eyes,neurology/eye/psychiatry
+315,1593,295.0,1593,iritis,neurology/eye/psychiatry
+316,1594,296.0,1594,post-natal depression,neurology/eye/psychiatry
+317,1595,297.0,1595,disc problem,musculoskeletal/trauma
+318,1596,298.0,1596,disc degeneration,musculoskeletal/trauma
+319,1597,299.0,1597,back pain,musculoskeletal/trauma
+320,1598,300.0,1598,scoliosis,musculoskeletal/trauma
+321,1599,301.0,1599,spinal stenosis,musculoskeletal/trauma
+322,1600,302.0,1600,joint pain,musculoskeletal/trauma
+323,1601,303.0,1601,arthritis (nos),musculoskeletal/trauma
+324,1603,304.0,1603,plantar fascitis,musculoskeletal/trauma
+325,1604,305.0,1604,carpal tunnel syndrome,musculoskeletal/trauma
+326,1605,306.0,1605,fibromyalgia,musculoskeletal/trauma
+327,1607,307.0,1607,dupuytren's contracture,musculoskeletal/trauma
+328,1608,308.0,1608,neck problem/injury,musculoskeletal/trauma
+329,1609,309.0,1609,essential thrombocytosis,haematology/dermatology
+330,1611,310.0,1611,acne/acne vulgaris,haematology/dermatology
+331,1612,311.0,1612,lichen planus,haematology/dermatology
+332,1613,312.0,1613,lichen sclerosis,haematology/dermatology
+333,1614,313.0,1614,ovarian problem,gynaecology/breast
+334,1615,314.0,1615,uterine problem,gynaecology/breast
+335,1616,315.0,1616,cervical problem,gynaecology/breast
+336,1617,316.0,1617,cervical intra-epithelial neoplasia (cin) / precancerous cells cervix,gynaecology/breast
+337,1618,317.0,1618,cervical polyps,gynaecology/breast
+338,1619,318.0,1619,menorrhagia (unknown cause),gynaecology/breast
+339,1620,319.0,1620,pelvic inflammatory disease/ pid,gynaecology/breast
+340,1621,,1621,obstetric problem,gynaecology/breast
+341,1622,320.0,1622,ectopic pregnancy,gynaecology/breast
+342,1623,321.0,1623,miscarriage,gynaecology/breast
+343,1624,322.0,1624,breast fibroadenoma,gynaecology/breast
+344,1625,323.0,1625,raynaud's phenomenon/disease,immunological/systemic disorders
+345,1626,324.0,1626,food intolerance,immunological/systemic disorders
+346,1627,325.0,1627,urticaria,immunological/systemic disorders
+347,1628,326.0,1628,antiphospholipid syndrome,immunological/systemic disorders
+348,1642,327.0,1642,hepatitis a,gastrointestinal/abdominal
+349,1643,328.0,1643,hepatitis b,gastrointestinal/abdominal
+350,1644,329.0,1644,hepatitis c,gastrointestinal/abdominal
+351,1645,330.0,1645,hepatitis d,gastrointestinal/abdominal
+352,1646,331.0,1646,hepatitis e,gastrointestinal/abdominal
+353,1649,332.0,1649,ischaemic stroke,cardiovascular
+354,1650,333.0,1650,mitral valve disease,cardiovascular
+355,1651,334.0,1651,mitral regurgitation / incompetence,cardiovascular
+356,1652,335.0,1652,aortic valve disease,cardiovascular
+357,1653,336.0,1653,aortic regurgitation / incompetence,cardiovascular
+358,1654,337.0,1654,hypertrophic cardiomyopathy (hcm / hocm),cardiovascular
+359,1655,338.0,1655,pericarditis,cardiovascular
+360,1656,339.0,1656,pericardial effusion,cardiovascular
+361,1657,340.0,1657,aortic aneurysm rupture,cardiovascular
+362,1658,341.0,1658,aortic dissection,cardiovascular
+363,1659,342.0,1659,varicose ulcer,cardiovascular
+364,1660,343.0,1660,respiratory infection,respiratory/ent
+365,1662,344.0,1662,pleural plaques (not known asbestosis),respiratory/ent
+366,1663,345.0,1663,pleural effusion,respiratory/ent
+367,1664,346.0,1664,tinnitus / tiniitis,respiratory/ent
+368,1665,347.0,1665,tonsiltis,respiratory/ent
+369,1666,348.0,1666,constipation,gastrointestinal/abdominal
+370,1667,349.0,1667,bowel / intestinal perforation,gastrointestinal/abdominal
+371,1668,350.0,1668,bowel / intestinal infarction,gastrointestinal/abdominal
+372,1670,351.0,1670,bowel / intestinal obstruction,gastrointestinal/abdominal
+373,1671,352.0,1671,rectal prolapse,gastrointestinal/abdominal
+374,1672,353.0,1672,alcoholic liver disease / alcoholic cirrhosis,gastrointestinal/abdominal
+375,1673,354.0,1673,femoral hernia,gastrointestinal/abdominal
+376,1674,355.0,1674,incisional hernia,gastrointestinal/abdominal
+377,1675,356.0,1675,diabetic nephropathy,renal/urology
+378,1676,357.0,1676,nephritis,renal/urology
+379,1677,358.0,1677,glomerulnephritis,renal/urology
+380,1678,359.0,1678,thyroid goitre,endocrine/diabetes
+381,1679,360.0,1679,hyperparathyroidism,endocrine/diabetes
+382,1681,361.0,1681,blepharitis / eyelid infection,neurology/eye/psychiatry
+383,1682,362.0,1682,stress,neurology/eye/psychiatry
+384,1683,363.0,1683,obsessive compulsive disorder (ocd),neurology/eye/psychiatry
+385,1684,364.0,1684,insomnia,neurology/eye/psychiatry
+386,1685,365.0,1685,osteopenia,musculoskeletal/trauma
+387,1686,366.0,1686,soft tissue inflammation,musculoskeletal/trauma
+388,1687,367.0,1687,tendonitis / tendinitis / tenosynovitis,musculoskeletal/trauma
+389,1688,368.0,1688,bursitis,musculoskeletal/trauma
+390,1689,369.0,1689,synovitis,musculoskeletal/trauma
+391,1690,370.0,1690,epicondylitis,musculoskeletal/trauma
+392,1691,371.0,1691,tennis elbow / lateral epicondylitis,musculoskeletal/trauma
+393,1692,372.0,1692,housemaid's knee (prepatellar bursitis),musculoskeletal/trauma
+394,1693,373.0,1693,cellulitis,haematology/dermatology
+395,1695,,1695,fracture,musculoskeletal/trauma
+396,1696,,1696,fracture head & neck,musculoskeletal/trauma
+397,1697,374.0,1697,fracture skull / head,musculoskeletal/trauma
+398,1698,375.0,1698,fracture jaw,musculoskeletal/trauma
+399,1699,376.0,1699,fracture nose,musculoskeletal/trauma
+400,1700,377.0,1700,fracture face / orbit / eye socket,musculoskeletal/trauma
+401,1701,378.0,1701,fracture neck / cervical fracture,musculoskeletal/trauma
+402,1702,,1702,fracture upper limb & shoulder,musculoskeletal/trauma
+403,1703,379.0,1703,fracture clavicle / collar bone,musculoskeletal/trauma
+404,1704,380.0,1704,fracture shoulder / scapula,musculoskeletal/trauma
+405,1705,381.0,1705,fracture upper arm / humerus / elbow,musculoskeletal/trauma
+406,1706,382.0,1706,fracture forearm / wrist,musculoskeletal/trauma
+407,1707,383.0,1707,fracture radius,musculoskeletal/trauma
+408,1708,384.0,1708,fracture ulna,musculoskeletal/trauma
+409,1709,385.0,1709,fracture wrist / colles fracture,musculoskeletal/trauma
+410,1710,386.0,1710,fracture hand,musculoskeletal/trauma
+411,1711,387.0,1711,fracture finger,musculoskeletal/trauma
+412,1712,388.0,1712,fracture thumb,musculoskeletal/trauma
+413,1713,,1713,other fractures,musculoskeletal/trauma
+414,1717,389.0,1717,fracture rib,musculoskeletal/trauma
+415,1718,390.0,1718,fracture sternum,musculoskeletal/trauma
+416,1719,391.0,1719,fracture vertebra / crush fracture / vertebral collapse,musculoskeletal/trauma
+417,1720,,1720,fracture pelvis & lower limb,musculoskeletal/trauma
+418,1721,392.0,1721,fracture pelvis,musculoskeletal/trauma
+419,1722,393.0,1722,fracture neck of femur / hip,musculoskeletal/trauma
+420,1723,394.0,1723,fracture shaft of femur,musculoskeletal/trauma
+421,1724,395.0,1724,fracture patella / knee,musculoskeletal/trauma
+422,1725,396.0,1725,fracture lower leg / ankle,musculoskeletal/trauma
+423,1726,397.0,1726,fracture tibia,musculoskeletal/trauma
+424,1727,398.0,1727,fracture fibula,musculoskeletal/trauma
+425,1728,,1728,fracture foot,musculoskeletal/trauma
+426,1729,399.0,1729,fracture metatarsal,musculoskeletal/trauma
+427,1730,400.0,1730,fracture toe,musculoskeletal/trauma
+428,1731,401.0,1731,septicaemia / sepsis,infections
+429,1732,402.0,1732,myelofibrosis,haematology/dermatology
+430,1733,403.0,1733,meningioma / benign meningeal tumour,neurology/eye/psychiatry
+431,1734,404.0,1734,rosacea,haematology/dermatology
+432,1735,405.0,1735,vitiligo,haematology/dermatology
+433,1736,406.0,1736,cervical erosion,gynaecology/breast
+434,1737,407.0,1737,abnormal smear (cervix),gynaecology/breast
+435,1738,408.0,1738,dysmenorrhoea / dysmenorrhea,gynaecology/breast
+436,1739,409.0,1739,menopausal symptoms / menopause,gynaecology/breast
+437,1740,410.0,1740,benign breast lump,gynaecology/breast
+438,1741,411.0,1741,alopecia / hair loss,haematology/dermatology
+439,1742,412.0,1742,allergy to house dust mite,immunological/systemic disorders
+440,1743,413.0,1743,contact dermatitis,immunological/systemic disorders
+441,1744,414.0,1744,allergy to elastoplast,immunological/systemic disorders
+442,1745,415.0,1745,allergy to nickel,immunological/systemic disorders
+443,1747,,1747,viral infection,infections
+444,1748,416.0,1748,hiv/aids,infections
+445,1750,417.0,1750,measles / morbillivirus,infections
+446,1751,418.0,1751,rubella / german measles,infections
+447,1752,419.0,1752,varicella zoster virus,infections
+448,1753,420.0,1753,chickenpox,infections
+449,1754,421.0,1754,shingles,infections
+450,1755,422.0,1755,herpes simplex,infections
+451,1756,423.0,1756,infectious mononucleosis / glandular fever / epstein barr virus (ebv),infections
+452,1757,424.0,1757,mumps / epidemic parotitis,infections
+453,1758,,1758,bacterial infection,infections
+454,1759,425.0,1759,mrsa / methicillin resistant staphylococcus aureus,infections
+455,1760,426.0,1760,helicobacter pylori,infections
+456,1761,427.0,1761,tuberculosis (tb),infections
+457,1762,,1762,tropical & travel-related infections,infections
+458,1763,428.0,1763,malaria,infections
+459,1764,429.0,1764,schistosomiasis/bilharzia,infections
+460,1765,430.0,1765,dengue fever,infections
+461,1766,431.0,1766,typhoid fever,infections
+462,1767,432.0,1767,giardia / giardiasis,infections
+463,1768,433.0,1768,diphtheria,infections
+464,1769,434.0,1769,whooping cough / pertussis,infections
+465,1770,435.0,1770,yellow fever,infections
+466,1771,436.0,1771,scarlet fever / scarlatina,infections
+467,1772,437.0,1772,chlamydia,infections
+468,1773,438.0,1773,undescended testicle,renal/urology
+469,1776,439.0,1776,bowen's disease,haematology/dermatology
+470,1777,440.0,1777,hydatiform mole,gynaecology/breast
+471,1778,441.0,1778,benign insulinoma,endocrine/diabetes
+472,1779,442.0,1779,benign neuroma,neurology/eye/psychiatry
